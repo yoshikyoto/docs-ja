@@ -1,6 +1,7 @@
 ---
 layout: default
 title: トップページ
+---
 
 
 # 日本語ドキュメント
